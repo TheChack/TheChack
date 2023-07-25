@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @TheChack and I'm from Argentina
-- 👀 I’m interested in things
-- 🌱 I’m currently learning how to code, I know nothing :(
+No se como programar.
 
 
 <!---
