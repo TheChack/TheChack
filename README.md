@@ -1,4 +1,4 @@
-No se como programar.
+No se programar.
 
 
 <!---
